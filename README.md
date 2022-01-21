@@ -5,4 +5,4 @@
 <u>✓ requirementes.txt faylidagi librarylarni yuklaysiz(host yoki local) ga</u><br>
 <u>✓ yuklab bo'lgach</u> <b>python app.py</b> <u>yozib ishlatishingiz mumkin</u>
 
-<b><i> Sizlar bilan <a href = 't.me/bkcoder'>Avazbek Avliyoqulov</a></b>
+<b><i> Sizlar bilan Avazbek Avliyoqulov</i></b>
