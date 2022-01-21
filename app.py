@@ -18,9 +18,6 @@ if True:
 			print("Siz kiritgan so'z:", text)
 			print("Tarjima qilingan matn:", trmatn)
 			print("Tarjima tili:", trlang)
-			text = input("Tarjima qilmoqchi bo'lgan matningizni kiriting: ")
-			lang = input("Tarjima qilmoqchi bo'lgan til kodini kiriting: ")
 	except Exception as e:
 		print("Xato, qayta urining!")
-		text = input("Tarjima qilmoqchi bo'lgan matningizni kiriting: ")
-		lang = input("Tarjima qilmoqchi bo'lgan til kodini kiriting: ")
+		
